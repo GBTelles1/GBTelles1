@@ -160,5 +160,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbtelles1&show_icons=true&locale=en&layout=compact" alt="gbtelles1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbtelles1&show_icons=true&locale=en" alt="gbtelles1" />
 </p>
