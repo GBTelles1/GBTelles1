@@ -17,7 +17,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Algorithms Design, Clean Architecture, Accessibility, and Application Performance**
+- 🌱 I’m currently learning **Algorithms Design, Clean Architecture, Security, and Application Performance**
 
 - 👨‍💻 All of my projects are available at [github.com/GBTelles1](https://github.com/GBTelles1)
 - 👨‍💻 You can also check my personal website: [gabrieltelles.netlify.app](https://gabrieltelles.netlify.app/)
